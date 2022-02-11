@@ -5,3 +5,12 @@ a {
   text-decoration: none;
   color: inherit;
 }
+h3 {
+  padding: 1rem 0;
+}
+.rating span {
+  margin: 0.1rem;
+}
+.custom-btn {
+  width: 100%;
+}
